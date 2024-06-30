@@ -1,4 +1,5 @@
-
+# ссылка на презентацию:
+https://drive.google.com/drive/folders/18BdKfcNrvFT80Za6pPplsj3mM_NqSHH8
 
 # NAFI Project
 
